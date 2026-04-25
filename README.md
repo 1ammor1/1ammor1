@@ -12,7 +12,7 @@
 ### 📤 Connect with Me
 <p align="left">
   <a href="mailto:amarhaikal208@gmail.com">
-    <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png" height="50"/>
+    <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png](https://upload.wikimedia.org/wikipedia/commons/0/0a/Gmail_logo.png" height="50"/>
   </a> &nbsp;
   <a href="https://www.linkedin.com/in/amarhaikal">
     <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/>
