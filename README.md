@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Amar Haikal</h1>
 
-<h2 align="center">Java Backend Developer</h2>
+<h2 align="center">Full-stack Developer</h2>
 <br>
 
 <p>
